@@ -1,6 +1,6 @@
 # Site settings
-title: Chris K. Samuel | Blog
-email: ksamuel.chris@me.com
+title: Your awesome title
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Forever, learning, growing and exploring. User Interface and Applications Developer, /JavaScript/Typescript, Coldusion, NodeJS, Angular, 
 baseurl: "" # the subpath of your site, e.g. /blog/
