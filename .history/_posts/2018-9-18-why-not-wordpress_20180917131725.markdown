@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Why I web blog in Angular/Firebase and not Wordpress?"
+date:   2018-09-18 12:14:53
+categories: Blogging HTML5 Angular Future-State
+---
+

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Why I web blog in Angular/Typescript/Firebase and Wordpress?"
+date:   2018-09-18 12:14:53
+categories: External Education
+---
+
